@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smlaen.github.io/site-portal-leisu-com-3/sitemap.xml
